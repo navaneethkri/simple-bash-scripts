@@ -34,4 +34,5 @@ esac
 echo "Result: $res"
 # checking
 # checking 1
+# check 2
 
